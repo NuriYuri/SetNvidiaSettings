@@ -1,0 +1,7 @@
+Debug/
+.vs/
+packages/
+Release/nvapi.lib
+Release/SetNvidiaSettings.pdb
+SetNvidiaSettings/Debug
+SetNvidiaSettings/Release
